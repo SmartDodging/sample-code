@@ -1,0 +1,8 @@
+#myCanvas{
+    background-color: lightsteelblue;
+}
+#paars{
+    display: block;
+    border: 5px solid lime;
+    width: 90px;
+}
